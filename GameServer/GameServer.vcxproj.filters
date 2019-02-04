@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Database">
+      <UniqueIdentifier>{ac6e7c52-04aa-47fc-ab1d-6bc98030280d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameProtocol">
+      <UniqueIdentifier>{a5fda1e4-86df-4e09-b93b-e5dc064b3f65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameRoom">
+      <UniqueIdentifier>{e086c43b-b933-4b7e-a6cd-79d7ca8ca91c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server">
+      <UniqueIdentifier>{0ae63f55-bdd3-40b3-81d7-648754beea0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="User">
+      <UniqueIdentifier>{48432d4f-e7b0-4486-825f-8480760a9464}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="JYGameRoom.h">
+      <Filter>GameRoom</Filter>
+    </ClInclude>
+    <ClInclude Include="JYGRManager.h">
+      <Filter>GameRoom</Filter>
+    </ClInclude>
+    <ClInclude Include="JYGameProtocol.h">
+      <Filter>GameProtocol</Filter>
+    </ClInclude>
+    <ClInclude Include="JYGServerIocp.h">
+      <Filter>Server</Filter>
+    </ClInclude>
+    <ClInclude Include="JYConnectedUser.h">
+      <Filter>User</Filter>
+    </ClInclude>
+    <ClInclude Include="JYCUManager.h">
+      <Filter>User</Filter>
+    </ClInclude>
+    <ClInclude Include="JYGameDatabase.h">
+      <Filter>Database</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="JYGameRoom.cpp">
+      <Filter>GameRoom</Filter>
+    </ClCompile>
+    <ClCompile Include="JYGRManager.cpp">
+      <Filter>GameRoom</Filter>
+    </ClCompile>
+    <ClCompile Include="JYGameProtocol.cpp">
+      <Filter>GameProtocol</Filter>
+    </ClCompile>
+    <ClCompile Include="JYGServerIocp.cpp">
+      <Filter>Server</Filter>
+    </ClCompile>
+    <ClCompile Include="GameServer.cpp">
+      <Filter>Server</Filter>
+    </ClCompile>
+    <ClCompile Include="JYConnectedUser.cpp">
+      <Filter>User</Filter>
+    </ClCompile>
+    <ClCompile Include="JYCUManager.cpp">
+      <Filter>User</Filter>
+    </ClCompile>
+    <ClCompile Include="JYGameDatabase.cpp">
+      <Filter>Database</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

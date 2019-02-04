@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+e:\jyfinalprojectt\lowlib\global.h(3): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': 매크로 재정의
+  e:\jyfinalprojectt\lowlib\global.h(3): note: 명령줄 인수: '_WINSOCK_DEPRECATED_NO_WARNINGS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\dbghelp.h(1540): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\dbghelp.h(3056): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+e:\jyfinalprojectt\gameserver\stdafx.h(37): warning C4091: 'typedef ': 변수를 선언하지 않으면 'USER_STATUS' 왼쪽은 무시됩니다.
+e:\jyfinalprojectt\gameserver\jygameprotocol.h(28): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_GProtocol' 왼쪽은 무시됩니다.
+  JYGameRoom.cpp
+  JYGameProtocol.cpp
+  JYGameDatabase.cpp
+  JYGServerIocp.cpp
+  JYGRManager.cpp
+  JYConnectedUser.cpp
+  JYCUManager.cpp
+  GameServer.cpp
+  코드를 생성하고 있습니다...
+  GameServer.vcxproj -> E:\JYFinalProjectt\x64\Debug\GameServer.exe
+  GameServer.vcxproj -> E:\JYFinalProjectt\x64\Debug\GameServer.pdb (Full PDB)
