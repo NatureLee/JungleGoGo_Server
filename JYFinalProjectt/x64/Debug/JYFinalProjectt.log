@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\dbghelp.h(1540): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\dbghelp.h(3056): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+e:\jyfinalprojectt\jyfinalprojectt\jyprotocol.h(12): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_Protocol' 왼쪽은 무시됩니다.
+  ServerMain.cpp
+  JYServerIocp.cpp
+  JYProtocol.cpp
+  JYDataBase.cpp
+  JYConnectedSession.cpp
+  JYCSManager.cpp
+  코드를 생성하고 있습니다...
+  JYFinalProjectt.vcxproj -> E:\JYFinalProjectt\x64\Debug\LoginServer.exe
+  JYFinalProjectt.vcxproj -> E:\JYFinalProjectt\x64\Debug\LoginServer.pdb (Partial PDB)
