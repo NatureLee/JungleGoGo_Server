@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+  JYStream.cpp
+  JYPacketSession.cpp
+  JYNetwork.cpp
+  JYIocp.cpp
+  JYCircularQueue.cpp
+  코드를 생성하고 있습니다...
+  LowLib.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\JYFinalProjectt\x64\Debug\LowLib.lib
